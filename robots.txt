@@ -1,0 +1,6 @@
+# bernd-mausehund.de/
+
+User-agent: *
+Disallow: /datenschutz.html
+
+Sitemap: http://www.bernd-mausehund.de/sitemap.xml
