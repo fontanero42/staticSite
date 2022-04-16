@@ -4,12 +4,6 @@ body {
 }
 
 
-/* Custom Horizontal Rule */
-
-/*hr.small {
-    max-width: 100px;
-}*/
-
 /* Home */
 
 #to-top {
@@ -32,9 +26,9 @@ body {
 }
 
 .maus {
-	background-color: #006432;
+	background-color: #103628;
 }
 
 .maus-title {
-	color: #F6FF00;
+	color: #FfF101;
 }
