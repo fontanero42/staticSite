@@ -5,6 +5,11 @@ body {
 
 
 /* Home */
+:root {
+	--maus-green: #103628;
+	--maus-yellow: #FfF101;
+	--maus-grey: #E1E6E4; 
+}
 
 #to-top {
   display: none;
@@ -19,18 +24,18 @@ body {
 }
 
 .maus {
-	background-color: #103628;
+	background-color: var(--maus-green);
 }
 
 .maus-title {
-	color: #FfF101;
+	color: var(--maus-yellow);
 }
 
 .maus-light {
-	background-color: #E1E6E4;
+	background-color: var(--maus-grey);
 }
 
 .maus-icon {
 	font-size: xx-large;
-	color: #103628;
+	color: var(--maus-green);
 }
