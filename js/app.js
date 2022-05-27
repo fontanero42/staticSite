@@ -1,6 +1,6 @@
 const storageType = localStorage;
 const consentPropertyName = 'fontanero_consent';
-const coolDown = 60 * 1000;
+const coolDown = 24 * 60 * 60 * 1000;
 
 const shouldShowPopup = () => {
 	const compare = new Date().getTime() - coolDown;
