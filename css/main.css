@@ -6,9 +6,9 @@ body {
 
 /* Home */
 :root {
-	--maus-green: #103628;
-	--maus-yellow: #FfF101;
-	--maus-grey: #E1E6E4; 
+	--maus-green: #003333;
+	--maus-yellow: #FFEF00;
+	--maus-grey: #e5eaea; 
 }
 
 #to-top {
@@ -29,6 +29,7 @@ body {
 
 .maus-title {
 	color: var(--maus-yellow);
+	border-bottom: thin solid var(--maus-yellow);
 }
 
 .maus-light {
