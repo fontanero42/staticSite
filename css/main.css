@@ -44,3 +44,10 @@ body {
 .hide {
 	display: none;
 }
+
+.rainbow {
+	margin-top: 20px;
+	height: 1vh;
+	width: 100vw;
+	background-image: linear-gradient(to right, var(--maus-green) 15%,var(--maus-yellow));
+}
